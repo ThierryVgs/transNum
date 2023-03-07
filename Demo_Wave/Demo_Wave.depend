@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1521631540 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\traitement_son\demo_wave\demo_00.c
+	"Wave.h"
+
+1521563136 c:\users\eric\documents\codeblocks_projects\trans_num_2018\traitement_son\demo_wave\wave.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<malloc.h>
+
+1521631550 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\traitement_son\demo_wave\demo_wave.c
+	"Wave.h"
+
+1521567152 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\traitement_son\demo_wave\wave_file.c
+	"Wave.h"
+
+1521632860 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\traitement_son\demo_wave\wave_calc.c
+	"Wave.h"
+
+1521638749 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\demo\demo_wave\demo_wave.c
+	"Wave.h"
+
+1521638920 c:\users\eric\documents\codeblocks_projects\trans_num_2018\demo\demo_wave\wave.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<malloc.h>
+
+1521640071 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\demo\demo_wave\wave_calc.c
+	"Wave.h"
+
+1521639651 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\demo\demo_wave\wave_file.c
+	"Wave.h"
+
+1521639134 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018\demo\demo_wave\demo_00.c
+	"Wave.h"
+
+1521639136 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018_2019\demo\demo_wave\demo_00.c
+	"Wave.h"
+
+1521638922 c:\users\eric\documents\codeblocks_projects\trans_num_2018_2019\demo\demo_wave\wave.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<malloc.h>
+
+1521640296 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018_2019\demo\demo_wave\demo_wave.c
+	"Wave.h"
+
+1521640072 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018_2019\demo\demo_wave\wave_calc.c
+	"Wave.h"
+
+1543158980 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018_2019\demo\demo_wave\wave_file.c
+	"Wave.h"
+
+1521640296 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018_2019\demo\demo_wave\demo.c
+	"Wave.h"
+
+1521639136 source:c:\users\eric\documents\codeblocks_projects\trans_num_2018_2019\demo\demo_wave\demo_test.c
+	"Wave.h"
+
+1634196119 source:d:\codeblocks\trans_num_2020_2021\demo_ori\demo_wave\demo.c
+	"Wave.h"
+
+1633589352 d:\codeblocks\trans_num_2020_2021\demo_ori\demo_wave\wave.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<malloc.h>
+
+1634196532 source:d:\codeblocks\trans_num_2020_2021\demo_ori\demo_wave\demo_test.c
+	"Wave.h"
+
+1634197530 source:d:\codeblocks\trans_num_2020_2021\demo_ori\demo_wave\wave_calc.c
+	"Wave.h"
+
+1634197163 source:d:\codeblocks\trans_num_2020_2021\demo_ori\demo_wave\wave_file.c
+	"Wave.h"
+
+1676020614 source:d:\codeblocks\trans_num_2021_2022\demo_ori\demo_wave\demo.c
+	"Wave.h"
+
+1676021339 d:\codeblocks\trans_num_2021_2022\demo_ori\demo_wave\wave.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<malloc.h>
+
+1676020524 source:d:\codeblocks\trans_num_2021_2022\demo_ori\demo_wave\demo_test.c
+	"Wave.h"
+
+1676021339 source:d:\codeblocks\trans_num_2021_2022\demo_ori\demo_wave\wave_calc.c
+	"Wave.h"
+
+1634193563 source:d:\codeblocks\trans_num_2021_2022\demo_ori\demo_wave\wave_file.c
+	"Wave.h"
+
